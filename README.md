@@ -4,7 +4,7 @@ Alien::SeqAlignment::MMseqs2 - find, build and install the mmseqs2 tools
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 

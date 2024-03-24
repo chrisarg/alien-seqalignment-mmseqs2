@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 package Alien::SeqAlignment::MMseqs2;
-$Alien::SeqAlignment::MMseqs2::VERSION = '0.01';
+$Alien::SeqAlignment::MMseqs2::VERSION = '0.02';
 use parent qw( Alien::Base );
 use Carp;
 our $AUTOLOAD;
@@ -30,7 +30,7 @@ Alien::SeqAlignment::MMseqs2 - find, build and install the mmseqs2 tools
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
